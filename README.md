@@ -54,7 +54,11 @@ BHP/
 │   └── app.js
 │
 ├── model/
-│   ├── BHP.ipynb
+│   └── BHP.ipynb
+│
+├── screenshots/
+│   ├── Homepage.jpeg
+│   └── sucessfull_predicted_result.jpeg
 │
 ├── server/
 │   ├── artifacts/
